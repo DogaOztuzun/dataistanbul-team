@@ -12,4 +12,5 @@ Roadmap
   - ders notlari (Wiki)
   - Issues (Tasks)
   - Klasorlendirme ?
-- Julia ile basit supervised ornegi
+- Challange
+  - Supervised Learning ornegi
