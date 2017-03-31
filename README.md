@@ -8,7 +8,7 @@ Git Flow: https://leanpub.com/git-flow/read
 
 Roadmap
 - Takim adi
-- Github kullanimini 
+- Github kullanimi
   - ders notlari (Wiki)
   - Issues (Tasks)
   - Klasorlendirme ?
